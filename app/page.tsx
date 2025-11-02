@@ -35,11 +35,12 @@ interface Review {
 }
 
 const Galimages = [
-  "/peak5.jpg",
+  
   "/peak1.jpg",
   "/peak2.jpg",
   "/peak3.jpg",
   "/peak4.jpg",
+  "/peak5.jpg",
   
 ];
 
@@ -49,6 +50,7 @@ const images = [
   "/peak2.jpg",
   "/peak3.jpg",
   "/peak4.jpg",
+  "/peak5.jpg",
   
 ];
 
