@@ -358,7 +358,7 @@ export default function OrderForm({ product }: { product: Product }) {
             )}
           </button>
           <p className="text-xs text-gray-600 text-center mt-3">
-            سعر التوصيل 600 دج لكامل الولايات
+     التوصيل  متوفر لكامل الولايات
           </p>
         </div>
       </div>
