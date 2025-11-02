@@ -44,7 +44,7 @@ export default function ThankYou() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link
-            href="/speedcat"
+            href="/"
             className="px-8 py-4 bg-primary text-primary-foreground rounded-xl font-semibold hover:bg-primary/90 transition-colors"
           >
             Retour à l&apos;accueil

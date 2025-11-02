@@ -1,4 +1,4 @@
-import { google } from "googleapis";
+/* import { google } from "googleapis";
 
 export async function addToSheet(name: string, phone: string, address: string) {
   const auth = new google.auth.GoogleAuth({
@@ -21,3 +21,4 @@ export async function addToSheet(name: string, phone: string, address: string) {
     requestBody: { values: [[name, phone, address, new Date().toLocaleString()]] },
   });
 }
+ */

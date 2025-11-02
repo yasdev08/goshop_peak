@@ -588,7 +588,7 @@ export default function Home() {
             Galerie Style
           </h2>
           <p className="text-lg sm:text-xl text-muted-foreground">
-            La Speedcat dans tous ses angles
+            Le Puma Casual dans tous ses angles
           </p>
         </div>
 
