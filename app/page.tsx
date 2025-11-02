@@ -45,7 +45,7 @@ const Galimages = [
 ];
 
 const images = [
-  "/peak5.jpg",
+  
   "/peak1.jpg",
   "/peak2.jpg",
   "/peak3.jpg",
